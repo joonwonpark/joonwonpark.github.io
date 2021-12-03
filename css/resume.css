@@ -171,6 +171,14 @@ a {
   color: rgb(21, 121, 63);
 }
 
+.sub-tlt{
+  color: #343a40;
+}
+
+.utube{
+  color: #860a11;
+}
+
 a:hover, a:focus, a:active {
   color: #rgb(69, 56, 189);
 }
